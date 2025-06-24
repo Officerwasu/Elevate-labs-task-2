@@ -2,7 +2,8 @@
 # PayPal Phishing Email Analysis Report -
 
 ## Objective
-This report details the analysis of a sample PayPal phishing email as part of Elevate Labs' Cyber Security Internship Task 2. [cite_start]The objective is to identify common characteristics and indicators of phishing attempts to enhance awareness and threat analysis skills.
+This report details the analysis of a sample PayPal phishing email as part of Elevate Labs' Cyber Security Internship Task 2.
+The objective is to identify common characteristics and indicators of phishing attempts to enhance awareness and threat analysis skills.
 
 ## Analysis of Sample: PayPal Phishing Email
 ![image](https://github.com/user-attachments/assets/c9e2d808-c68f-470b-b72c-e0339f018bf7)
