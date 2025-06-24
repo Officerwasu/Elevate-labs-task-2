@@ -36,4 +36,4 @@ Common phishing tactics observed in this email sample include:
 
 
 ## Outcome
-This exercise has significantly improved my ability to recognize and analyze phishing emails, highlighting the importance of vigilance and critical thinking when interacting with unsolicited communications to mitigate cyber threats.
+This exercise has helped me recognize and analyze phishing emails, highlighting the importance of vigilance and critical thinking when interacting with unsolicited communications to mitigate cyber threats.
